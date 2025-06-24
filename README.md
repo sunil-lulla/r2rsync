@@ -132,13 +132,6 @@ Secrets are fetched via `SecretsProvider`.
 {"vendorId":"salesforce","id":"abc123","timestamp":1717257110111,"data":[{"name":"John Doe"}]}
 ```
 
-
-## 📱 Contact & Contribution
-
-Feel free to fork and extend. For improvements or questions, open an issue or PR.
-
----
-
 ## 📦 Sample Vendor Config (from `VendorService`)
 
 ```js
