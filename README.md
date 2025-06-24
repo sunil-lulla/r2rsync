@@ -114,7 +114,7 @@ Supported `authType`s per vendor:
 * `basic` (Base64 username\:password)
 * `none`
 
-Secrets are fetched via `SecretsProvider`. Replace with your implementation.
+Secrets are fetched via `SecretsProvider`.
 
 ---
 
